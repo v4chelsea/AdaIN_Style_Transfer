@@ -8,6 +8,9 @@
  - 링크 : [https://arxiv.org/abs/1703.06868](https://arxiv.org/abs/1703.06868)
 <br></br>
 
+## AdaIN Style Transfer 논문 내용
+ - AdaIN 기술을 도입한 최초의 논문으로 Style Transfer를 Real Time으로 진행 가능하도록 하는데 커다란 공을 세움
+<br></br>
 
 ## 참고 내용
 플랫폼|이름 / 제목|링크
