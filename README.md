@@ -1,6 +1,6 @@
 # AdaIN Style Transfer 논문 실습 및 결론 도출
  - DaeJeong Kim([v4chelsea](https://github.com/v4chelsea))
- - 2021/09/01 ~ 2021/09/xx
+ - 2021/09/01 ~ 2021/09/03
 <br></br>
 
 ## AdaIN Style Transfer 논문
